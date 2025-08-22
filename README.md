@@ -13,7 +13,7 @@ Website simple buat bypass limit download di pixeldrain cocok buat wibu ewkwk.
 
 # Pixeldrain Limits Bypass Downloader
 
-_Bypass limit download Pixeldrain dengan mudah. Cocok untuk semua orang yang butuh akses cepat ke file menggunakan api._
+_Bypass limit download Pixeldrain dengan mudah. Cocok untuk semua orang yang butuh akses cepat ke file menggunakan **API SRILIF.MY**._
 
 ---
 
