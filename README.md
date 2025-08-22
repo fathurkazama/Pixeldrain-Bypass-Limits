@@ -2,6 +2,7 @@ Facebook : https://fb.com/fathur.yt.7
 
 Website : https://my.fathurkazama.id
 
+------------------------------------
 # Pixeldrain Limits Bypass Downloader
 
 ![Screenshot Desktop Website](demo.png)
@@ -12,7 +13,7 @@ Website simple buat bypass limit download di pixeldrain cocok buat wibu ewkwk.
 
 # Pixeldrain Limits Bypass Downloader
 
-_Bypass limit download Pixeldrain dengan mudah. Cocok untuk semua orang yang butuh akses cepat ke file._
+_Bypass limit download Pixeldrain dengan mudah. Cocok untuk semua orang yang butuh akses cepat ke file menggunakan api._
 
 ---
 
@@ -34,3 +35,13 @@ _Bypass limit download Pixeldrain dengan mudah. Cocok untuk semua orang yang but
 
 ## 📸 Tangkapan Layar
 _![Screenshot Desktop Website](ss.png)_
+
+-------------
+---
+
+## 🚀 Cara Menggunakan
+1. **Clone Repositori**  
+2. **Estrak Dan minimal menggunakan Shared Hosting atau XAMPP**
+3. **Jalankan**
+
+Sekian Ngabf
