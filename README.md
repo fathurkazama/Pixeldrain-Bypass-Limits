@@ -5,7 +5,8 @@ Website : https://my.fathurkazama.id
 # Pixeldrain Limits Bypass Downloader
 
 ![Screenshot Desktop Website](demo.png)
-[Screenshot Desktop Website](ss.png)
+
+![Screenshot Desktop Website](ss.png)
 
 Website simple buat bypass limit download di pixeldrain cocok buat wibu ewkwk. 
 
