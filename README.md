@@ -20,7 +20,7 @@ _Bypass limit download Pixeldrain dengan mudah. Dengan menggunakan **API SRIFLIX
 ## 📊 Informasi Proyek
 | Dibuat oleh | Versi  | Status  | Lisensi |
 |-------------|--------|---------|---------|
-| **Fathur ID** | 1.0.0  | Stabil  |       |
+| **FathurKazama** | 1.0.0  | Stabil  |       |
 
 ---
 
