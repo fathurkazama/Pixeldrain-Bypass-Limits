@@ -10,26 +10,27 @@ Website : https://my.fathurkazama.id
 
 Website simple buat bypass limit download di pixeldrain cocok buat wibu ewkwk. 
 
-## Fitur Utama
+# Pixeldrain Limits Bypass Downloader
 
--   **Desain Responsif:** Tampilan optimal di desktop, tablet, dan smartphone.
--   **Animasi Halus:** Efek transisi dan scroll yang elegan untuk pengalaman pengguna yang menyenangkan.
--   **Showcase Proyek:** Galeri yang mudah dinavigasi untuk menampilkan studi kasus terpilih.
--   **Bagian Tentang Saya:** Informasi profesional dan keahlian yang terperinci.
--   **Formulir Kontak:** Pengunjung bisa langsung menghubungi Anda.
+_Bypass limit download Pixeldrain dengan mudah. Cocok untuk semua orang yang butuh akses cepat ke file._
 
-## Cara Menggunakan
+---
 
-1.  Clone repositori ini:
-    `git clone https://github.com/fathurkazama/Designer-Portfolio-Professional'
-2.  Buka folder proyek di browser:
-    `index.html`
+## 📊 Informasi Proyek
+| Dibuat oleh | Versi  | Status  | Lisensi |
+|-------------|--------|---------|---------|
+| **Fathur ID** | 1.0.0  | Stabil  |       |
 
-## Lisensi
+---
 
-Proyek ini berada di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail selengkapnya.
+## ✨ Fitur Utama
+- **Desain Responsif**: Tampilan modern dan optimal di berbagai perangkat (desktop hingga smartphone).
+- **Performa Tinggi**: Kode ringan untuk transisi dan animasi yang cepat.
+- **Dukungan Pelanggan**: Akses cepat ke kontak WhatsApp untuk bantuan atau masukan.
+- **Halaman Info**: Informasi singkat tentang pembuat (**Fathur ID**).
+- **Bebas Limit**: Mengatasi batasan unduhan Pixeldrain, memungkinkan unduhan tanpa batas.
+- **Dll**
+---
 
-## Kredit
-
--   Desain terinspirasi dari berbagai dribbble shot dan website portfolio teman-teman. 
--   Foto-foto demo dari Unsplash.
+## 📸 Tangkapan Layar
+_![Screenshot Desktop Website](ss.png)_
